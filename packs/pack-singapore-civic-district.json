@@ -1,0 +1,243 @@
+{
+  "id": "singapore-civic-district",
+  "name": "Singapore Civic District and River",
+  "city": "Singapore",
+  "version": 1,
+  "attribution": "Facts from English Wikipedia (CC BY-SA 4.0), checked 13 November 2026. Visual descriptions written for ARound and not yet checked on site.",
+  "route": [
+    "merlion-park",
+    "fullerton-hotel",
+    "cavenagh-bridge",
+    "asian-civilisations-museum",
+    "raffles-landing-site",
+    "victoria-theatre-concert-hall",
+    "the-arts-house",
+    "national-gallery-singapore",
+    "the-padang",
+    "st-andrews-cathedral",
+    "raffles-hotel",
+    "esplanade-theatres"
+  ],
+  "places": [
+    {
+      "id": "merlion-park",
+      "name": "Merlion Park",
+      "aliases": [
+        "The Merlion",
+        "Merlion"
+      ],
+      "latitude": 1.286833,
+      "longitude": 103.854528,
+      "radius": 120,
+      "category": "statue and waterfront park",
+      "visualCues": "A white statue with a lion's head on a fish's body, several metres tall, spouting a jet of water from its mouth into the bay. A viewing jetty faces it, and a much smaller Merlion stands behind it.",
+      "story": "This is the Merlion, Singapore's mascot: a lion's head on the body of a fish. The statue is 8.6 metres tall and weighs about 70 tons.",
+      "more": "It was sculpted by Lim Nang Seng and opened in 1972 at a ceremony officiated by Lee Kuan Yew, then Prime Minister. It first stood at the mouth of the Singapore River and was moved to this spot in 2002. Look for the two-metre Merlion cub close by.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Merlion_Park"
+      ]
+    },
+    {
+      "id": "fullerton-hotel",
+      "name": "The Fullerton Hotel",
+      "aliases": [
+        "Fullerton Building",
+        "Fullerton Hotel Singapore",
+        "General Post Office"
+      ],
+      "latitude": 1.28611,
+      "longitude": 103.85306,
+      "radius": 150,
+      "category": "historic building, now a hotel",
+      "visualCues": "A massive grey granite neoclassical block near the river mouth, with rows of two-storey fluted Doric columns along its sides and a tall portico over the main entrance.",
+      "story": "This is the Fullerton Hotel. It opened in 1928 as the Fullerton Building, named after Robert Fullerton, the first Governor of the Straits Settlements, and for decades it was Singapore's General Post Office.",
+      "more": "It was designed by Keys and Dowdeswell, a Shanghai firm, and faced in grey Aberdeen granite. Besides the post office it housed the Exchange and the Singapore Club. A revolving beacon called the Fullerton Light was installed on the roof in 1958. It became a hotel in 2001 and a national monument in 2015.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Fullerton_Hotel_Singapore"
+      ]
+    },
+    {
+      "id": "cavenagh-bridge",
+      "name": "Cavenagh Bridge",
+      "aliases": [],
+      "latitude": 1.28656,
+      "longitude": 103.85235,
+      "radius": 80,
+      "category": "historic pedestrian bridge",
+      "visualCues": "A narrow, pale-painted steel footbridge over the Singapore River, held by cables or chains from a tower at each end, with hanging lamps and an old-fashioned notice board at the entrance.",
+      "story": "This is Cavenagh Bridge, opened in 1869 and named after Sir Orfeur Cavenagh, the last governor of the Straits Settlements appointed by the East India Company. Its steel was shipped out from Glasgow.",
+      "more": "The steelwork was made by P. and W. MacLellan. Look for the old sign that still bans horses, cattle and any vehicle over three hundredweight, and for the Cavenagh family crest on the steel plates. It is for pedestrians only now, and became a national monument in 2019 along with the other Singapore River bridges.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cavenagh_Bridge"
+      ]
+    },
+    {
+      "id": "asian-civilisations-museum",
+      "name": "Asian Civilisations Museum",
+      "aliases": [
+        "ACM",
+        "Empress Place Building"
+      ],
+      "latitude": 1.2875,
+      "longitude": 103.85139,
+      "radius": 120,
+      "category": "museum in a historic building",
+      "visualCues": "A long, low cream-white neoclassical building on the north bank of the river, right beside Cavenagh Bridge, with rows of arched and shuttered windows.",
+      "story": "This is the Asian Civilisations Museum, in the Empress Place Building. It opened here in 2003 and covers the material history of China, Southeast Asia, South Asia and West Asia.",
+      "more": "",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asian_Civilisations_Museum"
+      ]
+    },
+    {
+      "id": "raffles-landing-site",
+      "name": "Raffles' Landing Site",
+      "aliases": [
+        "Raffles Landing Site",
+        "Raffles statue",
+        "Statue of Sir Stamford Raffles"
+      ],
+      "latitude": 1.28778,
+      "longitude": 103.85056,
+      "radius": 60,
+      "category": "historic site and statue",
+      "visualCues": "A white statue of a man standing with his arms folded on a tall plinth, on the riverside promenade, with old shophouses and bank towers across the water behind him.",
+      "story": "By tradition, this is where Sir Stamford Raffles landed on 28 January 1819. The white statue is a polymarble copy unveiled in 1972, made from casts of the original 1887 figure.",
+      "more": "The original 1887 statue is a short walk away, in front of the Victoria Theatre and Concert Hall.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Raffles%27_Landing_Site"
+      ]
+    },
+    {
+      "id": "victoria-theatre-concert-hall",
+      "name": "Victoria Theatre and Concert Hall",
+      "aliases": [
+        "Victoria Theatre",
+        "Victoria Concert Hall",
+        "Victoria Memorial Hall"
+      ],
+      "latitude": 1.28825,
+      "longitude": 103.851639,
+      "radius": 120,
+      "category": "performing arts venue",
+      "visualCues": "Two matching cream neoclassical buildings joined by a central clock tower, with a dark statue of a standing man on a plinth in front.",
+      "story": "This is the Victoria Theatre and Concert Hall: two buildings joined by a clock tower. The theatre side began life as the Town Hall in 1862, the Memorial Hall followed between 1903 and 1905, and the clock tower joined them in 1906.",
+      "more": "It is home to the Singapore Symphony Orchestra. It became a national monument in 1992 and reopened in 2014 after a major renovation. The statue in front is of Stamford Raffles.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Victoria_Theatre_and_Concert_Hall"
+      ]
+    },
+    {
+      "id": "the-arts-house",
+      "name": "The Arts House",
+      "aliases": [
+        "Old Parliament House",
+        "The Arts House at The Old Parliament"
+      ],
+      "latitude": 1.28861,
+      "longitude": 103.85111,
+      "radius": 90,
+      "category": "historic building, now an arts venue",
+      "visualCues": "A cream two-storey neoclassical building, lower and older-looking than its neighbours, near the river. A small dark elephant statue on a tall plinth stands outside.",
+      "story": "This is the Arts House, also known as Old Parliament House. Completed in 1827, it is described as Singapore's oldest government building. George Coleman designed it as a home for the merchant John Argyle Maxwell, who never lived in it.",
+      "more": "It was used as a courthouse almost from the start and housed the Supreme Court until 1939. The Legislative Assembly met here from 1953, and Singapore's Parliament sat here from 1965 to 1999. It opened as an arts venue in 2004 and has been a national monument since 1992.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Arts_House"
+      ]
+    },
+    {
+      "id": "national-gallery-singapore",
+      "name": "National Gallery Singapore",
+      "aliases": [
+        "Former Supreme Court",
+        "Old Supreme Court",
+        "City Hall",
+        "Former City Hall"
+      ],
+      "latitude": 1.29049,
+      "longitude": 103.85186,
+      "radius": 180,
+      "category": "art museum in two historic buildings",
+      "visualCues": "Two large grey civic buildings side by side facing a big grass field: one with a dome and a columned portico, the other with a long row of very tall Corinthian columns.",
+      "story": "This is the National Gallery Singapore, housed in the former Supreme Court and City Hall. City Hall, the one with eighteen tall Corinthian columns, was built between 1926 and 1929; the domed Supreme Court opened in 1939. The gallery opened in 2015.",
+      "more": "At City Hall, Lord Louis Mountbatten accepted the Japanese surrender on 12 September 1945, and Lee Kuan Yew and his Cabinet were sworn in on 5 June 1959. The Supreme Court's dome was built to hold a circular law library. The gallery holds more than 9,000 works of Singaporean and Southeast Asian art from the 19th century to today.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Gallery_Singapore"
+      ]
+    },
+    {
+      "id": "the-padang",
+      "name": "The Padang",
+      "aliases": [
+        "Padang",
+        "Padang Cricket Ground"
+      ],
+      "latitude": 1.29056,
+      "longitude": 103.85306,
+      "radius": 200,
+      "category": "historic playing field",
+      "visualCues": "A large, flat, open grass playing field in front of the two big civic buildings, with a low clubhouse at each end.",
+      "story": "This open field is the Padang, which is simply Malay for 'field'. It used to be called the Plain. The Singapore Cricket Club, formed in 1852, sits at one end, and the Singapore Recreation Club at the other.",
+      "more": "The Padang was the first home of the National Day Parade and still hosts it. During the Second World War, Japanese forces gathered European and Eurasian residents here before interning them. It became Singapore's 75th national monument on 9 August 2022.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Padang,_Singapore"
+      ]
+    },
+    {
+      "id": "st-andrews-cathedral",
+      "name": "St Andrew's Cathedral",
+      "aliases": [
+        "Saint Andrew's Cathedral",
+        "St Andrews Cathedral"
+      ],
+      "latitude": 1.29222,
+      "longitude": 103.85222,
+      "radius": 150,
+      "category": "Anglican cathedral",
+      "visualCues": "A bright white Gothic-style church with pointed arched windows and a tall spire, set in a lawn with trees.",
+      "story": "This is St Andrew's Cathedral, Singapore's Anglican cathedral. The building went up between 1856 and 1861 and was consecrated in 1862. It was designed by Ronald MacPherson and built by Indian convict labourers.",
+      "more": "The style is Gothic Revival, and the walls were finished in a plaster called Madras chunam. In 1942, shortly before the fall of Singapore, it served as an emergency hospital. It has been a national monument since 1973.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/St_Andrew%27s_Cathedral,_Singapore"
+      ]
+    },
+    {
+      "id": "raffles-hotel",
+      "name": "Raffles Hotel",
+      "aliases": [
+        "Raffles Singapore",
+        "Raffles Hotel Singapore"
+      ],
+      "latitude": 1.29489,
+      "longitude": 103.85448,
+      "radius": 150,
+      "category": "historic hotel",
+      "visualCues": "A white colonial-style hotel, three storeys high, with arched verandahs and a palm-lined driveway.",
+      "story": "This is Raffles Hotel, opened in 1887 by the Sarkies Brothers, a family of Armenian hoteliers. The main building you see was completed in 1899.",
+      "more": "The main building was designed by Regent Alfred John Bidwell. The Singapore Sling was invented here, at the Long Bar, by bartender Ngiam Tong Boon, and the writer Somerset Maugham was a Long Bar regular. The hotel became a national monument in 1987 and reopened in 2019 after its latest restoration.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Raffles_Hotel"
+      ]
+    },
+    {
+      "id": "esplanade-theatres",
+      "name": "Esplanade – Theatres on the Bay",
+      "aliases": [
+        "Esplanade",
+        "The Esplanade",
+        "Esplanade Theatres on the Bay",
+        "The Durian"
+      ],
+      "latitude": 1.2897,
+      "longitude": 103.8555,
+      "radius": 220,
+      "category": "performing arts centre",
+      "visualCues": "Two large rounded domes on the waterfront covered in spiky triangular metal shades, like a pair of giant durians.",
+      "story": "This is the Esplanade, Theatres on the Bay, which opened in 2002. More than 7,000 triangular aluminium sunshades cover its two glass shells, which is why locals call it the big durian.",
+      "more": "Inside are a concert hall with about 1,800 seats and a theatre with about 1,950. It was designed by DP Architects with Michael Wilford and Partners and cost around 600 million Singapore dollars.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esplanade_%E2%80%93_Theatres_on_the_Bay"
+      ]
+    }
+  ]
+}

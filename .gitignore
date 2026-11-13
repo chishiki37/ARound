@@ -1,0 +1,12 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Local secrets (API keys). Copy Secrets.swift.example to Secrets.swift.
+samples/CameraAccess/CameraAccess/Secrets.swift
+
+# Node signaling server
+samples/CameraAccess/server/node_modules/
+samples/CameraAccess/server/package-lock.json
